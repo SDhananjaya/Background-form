@@ -1,0 +1,44 @@
+html, body {
+    background: url(https://t3.ftcdn.net/jpg/01/22/71/96/360_F_122719641_V0yw2cAOrfxsON3HeWi2Sf4iVxhv27QO.jpg) no-repeat center center fixed;
+    background-size: cover;
+     margin: 0; 
+    padding: 0; 
+    height: 100%;
+    overflow: hidden; 
+}
+
+
+
+form{
+   box-shadow: 2px 1px 5px grey;
+   height: 170px;
+   width: 260px;
+   margin-top: 130px;
+   background-image: url(https://t4.ftcdn.net/jpg/04/60/71/01/360_F_460710131_YkD6NsivdyYsHupNvO3Y8MPEwxTAhORh.jpg);
+   border-radius: 10px;
+}   
+.name{
+    margin-top: 15px;
+    font-size: 15px;
+    background-color: rgb(0, 255, 64);
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+}
+.password{
+    font-size: 15px;
+    background-color: rgb(0, 255, 64);
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+}
+button{
+    font-size: 17px;
+    padding: 5px;
+    background-color: rgb(255, 187, 0);
+    border-radius:5px;
+    width: 80px;
+}
+button:hover{
+    background-color: rgb(252, 8, 231);
+}
